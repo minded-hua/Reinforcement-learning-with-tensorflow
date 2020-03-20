@@ -1,2 +1,2 @@
-print("What the fuck!")
+print("Everything is ok!")
 
