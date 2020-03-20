@@ -1,1 +1,1 @@
-print("lsh & wtp")
+print("a brave try")
