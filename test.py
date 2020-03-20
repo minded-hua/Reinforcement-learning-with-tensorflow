@@ -1,1 +1,1 @@
-print("a brave try")
+print("What the fuck!")
