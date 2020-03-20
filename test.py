@@ -1,1 +1,1 @@
-print("ooo")
+print("lsh")
